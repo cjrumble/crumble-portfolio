@@ -19,6 +19,8 @@ If you click "Deploy to Netlify" button, it will create a new repo for you that 
 
 [![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/netlify-templates/auto-annotated-portfolio)
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/476395b8-1366-4141-9eb0-36b4a68ae5ea/deploy-status)](https://app.netlify.com/sites/chrisrumble/deploys)
+
 ## Getting Started
 
 The typical development process is to begin by working locally. Clone this repository, then run `npm install` in its root directory.
