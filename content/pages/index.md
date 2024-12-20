@@ -14,12 +14,13 @@ sections:
     colors: colors-f
     backgroundSize: full
     title: >-
-      I’m a developer, digital artist, consultant and a bunch of other
-      impressive titles and buzz words.
+      I’m a Software Developer, Quality Engineer, Project Lead, and People Manager. I focus on agile SDLC, sane project management, high quality metrics, targeted test automation, overall operational improvements, and great customer satisfaction.
     subtitle: >-
-      This is my info—I’m sharing it all this with ya’ll to impress you with all
-      the hard work I’ve done in the past few years. Once you’re impressed, you
-      can continue to scroll down to see more details and credentials about me.
+      My leadership in Quality Engineering has been a transformative journey, emphasizing project management and test automation to bolster operational standards and achieve high-level coverage and confidence in the team's delivery. Our dedication to continuous integration and a clean, extensible design elevated the reliability of theh company's software applications.
+      
+      I build multiple test automation frameworks and adopt systematic methodologies to efficiently tackle issues. My servant-leader approach has been instrumental in mentoring and expanding a resilient team, poised to meet aggressive project timelines by collaborating with stakeholders and improving quality across diverse applications.
+
+      Scroll down to see more details on all the hard work I’ve done in the past few years and my certified credentials.
     styles:
       self:
         height: auto
