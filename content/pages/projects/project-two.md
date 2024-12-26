@@ -1,6 +1,6 @@
 ---
 type: ProjectLayout
-title: Javascript & Cypress.io
+title: Javascript & Cypress.io Test Automation Framework
 colors: colors-a
 date: '2021-12-20'
 client: Awesome client
