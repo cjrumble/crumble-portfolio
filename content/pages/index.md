@@ -58,6 +58,27 @@ sections:
         justifyContent: flex-start
     type: HeroSection
     actions: []
+    text: >
+      My career journey and leadership has been a transformative journey,
+      emphasizing project management and test automation to bolster operational
+      standards and achieve high-level coverage and confidence in the team's
+      delivery. 
+
+
+      I am dedicated to continuous integration and a clean, extensible design.
+      With this methodology my leadership has elevated the reliability of the
+      company's software applications. I build multiple test automation
+      frameworks and adopt systematic methodologies to efficiently tackle
+      issues. My servant-leader approach has been instrumental in mentoring and
+      expanding a resilient team both on-site and off shore. I have brought the
+      team to a position of being poised to meet aggressive project timelines by
+      collaborating across teams and with stakeholders. My teams improve quality
+      across diverse applications. 
+
+
+      I also encourage consistent learning in both a personal and professional
+      environment. As technology changes rapidly, I expect myself and my team to
+      be skilled and innovative when it comes to the work we produce. 
   - colors: colors-f
     type: FeaturedProjectsSection
     elementId: ''
