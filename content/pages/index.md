@@ -15,10 +15,10 @@ sections:
     backgroundSize: full
     title: 'Quality Engineer &  Manager. Senior Software Developer. Project Lead. '
     subtitle: >-
-      I focus on Agile SDLC thanks to my experience and training as a Scrum
-      Master. I am also skilled in Project Management, producing high quality
-      metrics along with targeted test automation. I have implemented overall
-      operational improvements, best practices and excellent customer reviews. 
+      As a Scrum Master, I focus on Agile SDLC and methodologies.  I am skilled
+      in Project Management, producing high quality metrics along with targeted
+      test automation. I have implemented overall operational improvements, best
+      practices yielded excellent customer reviews. 
     styles:
       self:
         height: auto
