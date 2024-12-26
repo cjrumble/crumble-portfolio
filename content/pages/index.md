@@ -13,7 +13,9 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: full
-    title: Senior Software Developer. Quality Engineer. Project Lead. People Manager.
+    title: >-
+      People Manager. Senior Software Developer. Quality Engineer. Project
+      Lead. 
     subtitle: ' I focus on Agile SDLC thanks to my experience and training as a Scrum Master. I am also skilled in Project Management, producing high quality metrics along with targeted test automation. I have implemented overall operational improvements, best practices and excellent customer reviews.My leadership in Quality Engineering has been a transformative journey, emphasizing project management and test automation to bolster operational standards and achieve high-level coverage and confidence in the team''s delivery. Our dedication to continuous integration and a clean, extensible design elevated the reliability of theh company''s software applications.I build multiple test automation frameworks and adopt systematic methodologies to efficiently tackle issues. My servant-leader approach has been instrumental in mentoring and expanding a resilient team, poised to meet aggressive project timelines by collaborating with stakeholders and improving quality across diverse applications.Scroll down to see more details on all the hard work I’ve done in the past few years and my certified credentials.'
     styles:
       self:
