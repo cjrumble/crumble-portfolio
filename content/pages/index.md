@@ -47,13 +47,19 @@ sections:
     type: HeroSection
     actions: []
     text: >
-      My career journey and leadership has been a transformative journey,
-      emphasizing project management and test automation to bolster operational
-      standards and achieve high-level coverage and confidence in the team's
-      delivery. In my 30+ years in the technology space with experience starting
-      as a developer to working my way through senior level positions, a teams
-      lead to people manager, I have learned the importance of communication,
-      strategy, collaboration and best practices. 
+      As a Scrum Master, I focus on Agile SDLC and methodologies.  I am skilled
+      in Project Management, producing high quality metrics along with targeted
+      test automation. I have implemented overall operational improvements, best
+      practices which have yielded excellent customer reviews.
+
+
+      My career journey and leadership has been transformative, emphasizing
+      project management and test automation to bolster operational standards
+      and achieve high-level coverage and confidence in the team's delivery. In
+      my 30+ years in the technology space with experience starting as a
+      developer to working my way through senior level positions, a teams lead
+      to people manager, I have learned the importance of communication,
+      strategy, collaboration and best practices.
 
 
       I am dedicated to continuous integration and a clean, extensible design.
