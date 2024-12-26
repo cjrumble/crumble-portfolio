@@ -1,6 +1,6 @@
 ---
 type: ProjectLayout
-title: Selenium + Python Automation Framework
+title: Selenium & Python Test Automation Framework
 colors: colors-a
 date: '2021-10-15'
 client: Awesome client
