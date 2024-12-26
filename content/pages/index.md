@@ -13,18 +13,16 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: full
-    title: >-
-      I’m a Software Developer, Quality Engineer, Project Lead, and People Manager. I focus on agile SDLC, sane project management, high quality metrics, targeted test automation, overall operational improvements, and great customer satisfaction.
+    title: 'Quality Engineer &  Manager. Senior Software Developer. Project Lead. '
     subtitle: >-
-      My leadership in Quality Engineering has been a transformative journey, emphasizing project management and test automation to bolster operational standards and achieve high-level coverage and confidence in the team's delivery. Our dedication to continuous integration and a clean, extensible design elevated the reliability of theh company's software applications.
-      
-      I build multiple test automation frameworks and adopt systematic methodologies to efficiently tackle issues. My servant-leader approach has been instrumental in mentoring and expanding a resilient team, poised to meet aggressive project timelines by collaborating with stakeholders and improving quality across diverse applications.
-
-      Scroll down to see more details on all the hard work I’ve done in the past few years and my certified credentials.
+      As a Scrum Master, I focus on Agile SDLC and methodologies.  I am skilled
+      in Project Management, producing high quality metrics along with targeted
+      test automation. I have implemented overall operational improvements, best
+      practices which have yielded excellent customer reviews. 
     styles:
       self:
         height: auto
-        width: wide
+        width: narrow
         margin:
           - mt-0
           - mb-0
@@ -48,6 +46,30 @@ sections:
         justifyContent: flex-start
     type: HeroSection
     actions: []
+    text: >
+      My career journey and leadership has been a transformative journey,
+      emphasizing project management and test automation to bolster operational
+      standards and achieve high-level coverage and confidence in the team's
+      delivery. In my 30+ years in the technology space with experience starting
+      as a developer to working my way through senior level positions, a teams
+      lead to people manager, I have learned the importance of communication,
+      strategy, collaboration and best practices. 
+
+
+      I am dedicated to continuous integration and a clean, extensible design.
+      With this methodology my leadership has elevated the reliability of the
+      company's software applications. I build multiple test automation
+      frameworks and adopt systematic methodologies to efficiently tackle
+      issues. My servant-leader approach has been instrumental in mentoring and
+      expanding a resilient team both on-site and off shore. I have brought the
+      team to a position of being poised to meet aggressive project timelines by
+      collaborating across teams and with stakeholders. My teams improve quality
+      across diverse applications.
+
+
+      I also encourage consistent learning in both a personal and professional
+      environment. As technology changes rapidly, I expect myself and my team to
+      be skilled and innovative when it comes to the work we produce.
   - colors: colors-f
     type: FeaturedProjectsSection
     elementId: ''
@@ -85,7 +107,7 @@ sections:
         textAlign: left
       actions:
         justifyContent: flex-end
-    subtitle: 'Projects'
+    subtitle: Projects
   - type: FeaturedPostsSection
     elementId: ''
     colors: colors-f
