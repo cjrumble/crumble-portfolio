@@ -5,9 +5,10 @@ colors: colors-a
 date: '2021-12-20'
 client: Awesome client
 description: >-
-  It’s hard to imagine that I’ve that I wrote all this code by myself, probably
-  because I worked with an entire team :) but they definitely followed my lead
-  most of the time.
+  I can't take credit for creating all this code alone. I have been supported by
+  a brilliant team. Although, I have provided leadership, education and
+  strategies to elevate us collectively, which allowed us to produce a Cool
+  Project.
 featuredImage:
   type: ImageBlock
   url: /images/bg2.jpg
