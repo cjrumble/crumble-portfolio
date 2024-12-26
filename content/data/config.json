@@ -76,7 +76,7 @@
         ],
         "contacts": {
             "type": "ContactBlock",
-            "title": "Contact details",
+            "title": "How to Get In Touch",
             "phoneNumber": "925.408.1824",
             "phoneAltText": "My phone number",
             "email": "cjrumble@yahoo.com",
